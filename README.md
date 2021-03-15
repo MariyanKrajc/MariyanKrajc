@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MariyanKrajc
+- 👀 I’m interested in User interface/User experience design and learning to code, mostly front-end development
+- 🌱 I’m currently learning Javascript and front-end stuff
+- 💞️ I’m looking to collaborate mostly on designing interface and graphic design
